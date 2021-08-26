@@ -50,3 +50,7 @@ void retardo(uint32_t tiempo){
 	for(contador =0 ; contador<tiempo; contador++){};
 
 }
+
+
+
+//messi es arquero, 
